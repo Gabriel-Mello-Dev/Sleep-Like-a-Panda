@@ -93,7 +93,7 @@ const TopBar = () => {
                   ? "https://images.vexels.com/media/users/3/325722/isolated/preview/9ddc9ea001c1946ee72afb0b5df6769f-panda-vermelho-de-desenho-animado-com-os-bracos-estendidos.png" // 🟥 panda vermelho dormindo
                   : "slpD.png"
               }
-              alt="Panda Dormindo"
+              alt="O Panda Dormindo"
               width={60}
               height={60}
             />
