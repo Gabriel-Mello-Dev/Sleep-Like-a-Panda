@@ -125,7 +125,7 @@ const TopBar = () => {
               aria-expanded={menuOpen}
             >
               <img
-                src="https://icon-library.com/images/profile-icon-png/profile-icon-png-8.jpg"
+                src="/pfpSlp.webp"
                 className={styles.profileIcon}
               />
             </button>
