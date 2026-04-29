@@ -40,7 +40,7 @@ const Head = () => {
         ) : (
           <button onClick={handleClick} className={styles.transparentButton}>
             <img
-              src="https://juststickers.in/wp-content/uploads/2021/01/sleeping-panda.png"
+              src="/slpD.png"
               alt="Panda Dormindo"
               width={150}
             />

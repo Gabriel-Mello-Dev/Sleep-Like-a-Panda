@@ -91,7 +91,7 @@ const TopBar = () => {
               src={
                 dark
                   ? "https://images.vexels.com/media/users/3/325722/isolated/preview/9ddc9ea001c1946ee72afb0b5df6769f-panda-vermelho-de-desenho-animado-com-os-bracos-estendidos.png" // 🟥 panda vermelho dormindo
-                  : "https://juststickers.in/wp-content/uploads/2021/01/sleeping-panda.png"
+                  : "slpD.png"
               }
               alt="Panda Dormindo"
               width={60}

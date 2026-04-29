@@ -119,7 +119,7 @@ const Sono = () => {
       {isRunning && (
         <div className={style.dimmingOverlay}>
           <img
-            src="https://juststickers.in/wp-content/uploads/2021/01/sleeping-panda.png"
+            src="/slpD.png"
             alt="Panda dormindo"
           />
         </div>
